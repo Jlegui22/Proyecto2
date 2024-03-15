@@ -252,7 +252,7 @@ height: 200px;
    } 
    #Viento{
    width: 100%;
-   height: 200px;
+   height: 350px;
   }
   #G{
     color: rgb(18, 115, 18);
@@ -421,6 +421,6 @@ margin-left: 25px;
 } 
 #Viento2{
 width: 100%;
-height: 200px;
+height: 350px;
 }
 }
